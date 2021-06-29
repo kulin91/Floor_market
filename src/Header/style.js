@@ -1,11 +1,13 @@
 export const style = {
   header: {
     height: "100px",
-    backgroundColor: "#131313",
+    backgroundColor: "#F5F5F5",
     position: "sticky",
     display: "flex",
     position: "sticky",
     top: "0",
+    // opacity: "95%",
+    boxShadow: "0px 8px 8px 4px #21212180",
   },
 
   header_img_container: {
@@ -25,7 +27,7 @@ export const style = {
   },
 
   item_navigation_panel: {
-    color: "#FAFAFA",
+    color: "#212121",
     margin: "12px",
   }
 };

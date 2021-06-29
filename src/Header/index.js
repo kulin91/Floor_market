@@ -11,10 +11,10 @@ function Header() {
       </div>
       <div style={style.container_for_navigation_panel} className="container_for_navigation_panel">
         <div style={style.navigation_panel} className="navigation_panel">
-          <div style={style.item_navigation_panel} className="item_navigation_panel">Услуги</div>
           <div style={style.item_navigation_panel} className="item_navigation_panel">О нас</div>
-          <div style={style.item_navigation_panel} className="item_navigation_panel">Наши работы</div>
-          <div style={style.item_navigation_panel} className="item_navigation_panel">Отзывы</div>
+          <div style={style.item_navigation_panel} className="item_navigation_panel">Наши преимущества</div>
+          <div style={style.item_navigation_panel} className="item_navigation_panel">Услуги</div>
+          <div style={style.item_navigation_panel} className="item_navigation_panel">Цены</div>
           <div style={style.item_navigation_panel} className="item_navigation_panel">Контакты</div>
         </div>
         {/* <div style={style.item_navigation_panel} className="navigation_panel_number">+375 (29) 111 22 33</div> */}
